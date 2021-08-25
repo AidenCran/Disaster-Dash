@@ -2,7 +2,7 @@
 2021 - Semester 1
 QUT IGB100 Assignment 3
 
-**Credits:**
-Aiden Cran: Programmer, Level Designer
-Hue Do: Programmer, Level Designer
+**Credits:** <br>
+Aiden Cran: Programmer, Level Designer <br>
+Hue Do: Programmer, Level Designer <br>
 Ereef: Game Designer
